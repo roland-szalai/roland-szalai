@@ -1,13 +1,8 @@
 ## 👋 Hi, I'm Roland!
 
-### Third year Computer Science student at ELTE, Budapest💻
+### SAP developer📊
 
-### Interested in:
-📊 Data Science <br/>
-🤖 Machine Learning <br/> 
-🏗️ Software Development <br/>
-
-🧑‍🎓 Currently learning SAP Technologies
+🧑‍🎓 Computer Science at ELTE - 2025
 
 
 ### Tech Stack:
